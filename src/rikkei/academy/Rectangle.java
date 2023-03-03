@@ -17,6 +17,7 @@ public class Rectangle {
         return (this.height + this.width)*2;
     }
     public String display(){
+//        cap nhat code
         return "Rectangle{"+"width: "+width+",height: "+height+"}";
     }
 }
